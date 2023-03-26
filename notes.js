@@ -101,3 +101,5 @@ module.exports = {
     listNotes:listNotes,
     readNote:readNote
 }
+
+console.log('git changed file')
