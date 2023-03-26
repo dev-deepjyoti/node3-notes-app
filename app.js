@@ -70,3 +70,5 @@ yargs.command({
 })
 
 yargs.parse()
+
+console.log('New branch created in git')
