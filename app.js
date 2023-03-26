@@ -70,5 +70,3 @@ yargs.command({
 })
 
 yargs.parse()
-
-console.log('Changed in file for git updated.')
