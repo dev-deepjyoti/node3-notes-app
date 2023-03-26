@@ -101,5 +101,3 @@ module.exports = {
     listNotes:listNotes,
     readNote:readNote
 }
-
-console.log('Git Saved')
